@@ -9,6 +9,7 @@
     @vite('resources/js/app.js')
 </head>
 <body>
+    {{dd($movies)}}
     <h1>prova</h1>
 </body>
 </html>
